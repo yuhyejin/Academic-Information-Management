@@ -8,4 +8,6 @@
 * C++
 * mySql
 
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e49fd781-b589-4143-9b93-490fa1677238/bba73893-9500-46d5-a23d-02e94132eae0/Untitled.png)
+## 기능
+![image](https://github.com/yuhyejin/Academic-Information-Management/assets/74812194/0d97e725-2ff8-4f62-903e-238faf73f076)
+![image](https://github.com/yuhyejin/Academic-Information-Management/assets/74812194/c9d792c9-99b4-48c9-98f7-e1dd39715579)
